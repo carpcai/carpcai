@@ -27,5 +27,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carpcai&show_icons=true&locale=en&layout=compact" alt="Carp Choi" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=carpcai&theme=dark" alt="Carp Choi" /></p>
 
