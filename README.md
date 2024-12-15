@@ -12,8 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, My <img src="https://profile-counter.glitch.me/carpcai/count.svg" alt="android" width="300" height="40"/> visitor </h1>
 
-<h1 align="center">Hi there 👋, I'm Carp Choi </h1>
+
+<h1 align="center">I'm Carp Choi</h1>
 <h3 align="center">Computer Science Undergrad</h3>
 <img align="right" alt="Coding" width="450"  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carpcai&label=Profile%20views&color=0e75b6&style=flat" alt="Carp Choi" /> </p>
